@@ -1,4 +1,4 @@
-/* WAP to Print :-
+/* WAP to Print :--
 
     *
     * *
